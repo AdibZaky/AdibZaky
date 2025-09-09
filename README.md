@@ -11,8 +11,8 @@ Hi 👋, I'm **AdibZakyMaulidy**
 
 | No | Tgl        | Praktikum ke | Topik                                   | Laporan                    | Repository             |
 |----|------------|--------------|-----------------------------------------|----------------------------|------------------------|
-| 1  | 03-09-2025 | 01           | Pengenalan Mobile Programming dan Setup | [Laporan 01](#)            | [Repository 01](#)     |
-| 2  | 10-09-2025 | 02           | Layout dan Widget Dasar                 | [Laporan 02](#)            | [Repository 02](#)     |
+| 1  | 03-09-2025 | 01           | Pengenalan Mobile Programming dan Setup | [Laporan 01](https://drive.google.com/file/d/1dD09ZhWCPLuK39Dplk5FSbBDw_MA8n5m/view?usp=sharing)            | [Repository 01](#)     |
+| 2  | 10-09-2025 | 02           | Layout dan Widget Dasar                 | [Laporan 02](https://drive.google.com/file/d/123uhlaRVxPvlBk5aHxGTHqRYkIltQ1lG/view?usp=sharing)            | [Repository 02](#)     |
 | 3  | 17-09-2025 | 03           | Navigasi dan State Management           | [Laporan 03](#)            | [Repository 03](#)     |
 
 ---
