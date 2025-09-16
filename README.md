@@ -13,7 +13,8 @@ Hi 👋, I'm **AdibZakyMaulidy**
 |----|------------|--------------|-----------------------------------------|----------------------------|------------------------|
 | 1  | 03-09-2025 | 01           | Pengenalan Mobile Programming dan Setup | [Laporan 01](https://drive.google.com/file/d/1dD09ZhWCPLuK39Dplk5FSbBDw_MA8n5m/view?usp=sharing)            | [Repository 01](https://github.com/AdibZaky/Instalasi-Pengujian)     |
 | 2  | 03-09-2025 | 01           | Layout dan Widget Dasar                 | [Laporan 02](https://drive.google.com/file/d/123uhlaRVxPvlBk5aHxGTHqRYkIltQ1lG/view?usp=sharing)            | [Repository 02](https://github.com/AdibZaky/Row-Column)     |
-| 3  | 10-09-2025 | 02           | Navigasi dan State Management           | [Laporan 03](#)            | [Repository 03](#)     |
+| 3  | 10-09-2025 | 02           | Pengaturan Layout Row & Column        | [Laporan 03](https://drive.google.com/file/d/1o7GvUZSIiDlm8gYePBxgZNpqeGaY4c7x/view?usp=sharing)            | [Repository 03](#)     |
+| 4  | 10-09-2025 | 02           | Widget Flexible & Expanded          | [Laporan 04](https://drive.google.com/file/d/1K00Hou_oCAP9TtNl252wI77qWmzVt1to/view?usp=sharing)            | [Repository 04](#)     |
 
 ---
 
