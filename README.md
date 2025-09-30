@@ -17,8 +17,8 @@ Hi 👋, I'm **AdibZakyMaulidy**
 | 4  | 10-09-2025 | 02           | Widget Flexible & Expanded          | [Laporan 04](https://drive.google.com/file/d/1K00Hou_oCAP9TtNl252wI77qWmzVt1to/view?usp=sharing)            | [Repository 04](https://github.com/AdibZaky/ControlBarMusic)     |
 | 5  | 17-09-2025 | 03           | Widget Sizedbox, Spacer and Card         | [Laporan 05](https://drive.google.com/file/d/1KDvMBYqcQiXeig-JAYvk3v7OQhq31Uad/view?usp=sharing)            | [Repository 05](https://github.com/AdibZaky/Widget-Sizedboz-Spacer-And-Card)     |
 | 6  | 17-09-2025 | 03           | Widget GridView, ListView, GridViewBuilder And ListViewBuilder          | [Laporan 06](https://drive.google.com/file/d/16Ko7y4wwBbVRWttOVwthEBMnep7Y4Y2g/view?usp=sharing)            | [Repository 06](https://github.com/AdibZaky/Widget-GridView-ListView-GridViewBuilder-And-ListViewBuilder)     |
-| 7  | 24-09-2025 | 04          | Material Pageroute & Named Route        | [Laporan 05](https://drive.google.com/file/d/1jths3fUgAhOhFB4UsKRoIhH9JV9IRSer/view?usp=sharing)            | [Repository 05](#)     |
-| 8  | 24-09-2025 | 04           | Navugasi Antar Halaman Dengan Mengirimkan Named Route         | [Laporan 06](https://drive.google.com/file/d/1Xsy2B1icXMEsyrvTnK9KjDr2XSnAOc9F/view?usp=sharing)            | [Repository 06](#)     |
+| 7  | 24-09-2025 | 04          | Material Pageroute & Named Route        | [Laporan 07](https://drive.google.com/file/d/1jths3fUgAhOhFB4UsKRoIhH9JV9IRSer/view?usp=sharing)            | [Repository 07](https://github.com/AdibZaky/MaterialPageroute-NamedRoute)     |
+| 8  | 24-09-2025 | 04           | Navugasi Antar Halaman Dengan Mengirimkan Named Route         | [Laporan 08](https://drive.google.com/file/d/1Xsy2B1icXMEsyrvTnK9KjDr2XSnAOc9F/view?usp=sharing)            | [Repository 08](https://github.com/AdibZaky/ArgumenNamedRoute)     |
 
 ---
 
