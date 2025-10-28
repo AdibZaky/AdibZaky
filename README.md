@@ -20,6 +20,9 @@ Hi 👋, I'm **AdibZakyMaulidy**
 | 7  | 24-09-2025 | 04          | Material Pageroute & Named Route        | [Laporan 07](https://drive.google.com/file/d/1jths3fUgAhOhFB4UsKRoIhH9JV9IRSer/view?usp=sharing)            | [Repository 07](https://github.com/AdibZaky/MaterialPageroute-NamedRoute)     |
 | 8  | 24-09-2025 | 04           | Navugasi Antar Halaman Dengan Mengirimkan Named Route         | [Laporan 08](https://drive.google.com/file/d/1Xsy2B1icXMEsyrvTnK9KjDr2XSnAOc9F/view?usp=sharing)            | [Repository 08](https://github.com/AdibZaky/ArgumenNamedRoute)     |
 | 9  | 1-10-2025 | 05           | StatefulWidget        | [Laporan 09](https://drive.google.com/file/d/1LHuqPdR648TI_mFa6dwbnY3xq_3LOmFI/view?usp=drive_link)            | [Repository 09](https://github.com/AdibZaky/StatefullWidget)     |
+| 10  | 8-10-2025 | 06           | IntegrasiAPI_denganJson       | [Laporan 10](https://drive.google.com/file/d/12Bu8rLYp5HQ9uzFKF9--Db6dxaM_pJyX/view?usp=sharing)            | [Repository 10](https://github.com/AdibZaky/IntegrasiApi_denganJSON)     |
+| 11  | 15-10-2025 | 07           | Manajemen State dengan GetX       | [Laporan 11](https://drive.google.com/file/d/1yaOKrQTQ8fnoOQIK881BNJ4mHqWzYZF6/view?usp=sharing)            | [Repository 11](https://github.com/AdibZaky/Manajemen_State_dengan_GetX)     |
+| 12  | 22-10-2025 | 08           | Ujian Tengah Semester(UTS)      | [Laporan UTS](https://drive.google.com/file/d/1o35Sr2X7nUsnXDC52IqyQngVhqVr0Uzw/view?usp=sharing)            | [Repository UTS](https://github.com/AdibZaky/StayFinder_UTS)     |
 
 ---
 
